@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73449a3d-f313-4fe1-8cf4-c265535ee6af": {
+      "ProjectGuid": "73449a3d-f313-4fe1-8cf4-c265535ee6af",
+      "DisplayName": "Datos",
+      "ColorIndex": 0
+    },
+    "7711142f-5d03-4a33-9dcc-e3ad7d9dddd1": {
+      "ProjectGuid": "7711142f-5d03-4a33-9dcc-e3ad7d9dddd1",
+      "DisplayName": "Modelos",
+      "ColorIndex": 1
+    },
+    "56a3d84a-8bfe-4b0d-b160-bcc707ed9ca5": {
+      "ProjectGuid": "56a3d84a-8bfe-4b0d-b160-bcc707ed9ca5",
+      "DisplayName": "Negocio",
+      "ColorIndex": 2
+    },
+    "e87064ea-9435-40bd-8945-935e6c76c386": {
+      "ProjectGuid": "e87064ea-9435-40bd-8945-935e6c76c386",
+      "DisplayName": "apiPOO",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "7b981bd8-ca8a-482c-af4f-ac9b775782ea": {
+      "ProjectGuid": "7b981bd8-ca8a-482c-af4f-ac9b775782ea",
+      "DisplayName": "Datos",
+      "ColorIndex": 4
+    },
+    "75c246d2-6de2-4bc4-9802-1f209f154a35": {
+      "ProjectGuid": "75c246d2-6de2-4bc4-9802-1f209f154a35",
+      "DisplayName": "Datos",
+      "ColorIndex": 5
+    },
+    "f1e2feea-0d35-4fce-97a1-0754c1387f29": {
+      "ProjectGuid": "f1e2feea-0d35-4fce-97a1-0754c1387f29",
+      "DisplayName": "DataCore",
+      "ColorIndex": 6
+    },
+    "4e7d7e53-50ef-4326-a686-9b1a6e12d089": {
+      "ProjectGuid": "4e7d7e53-50ef-4326-a686-9b1a6e12d089",
+      "DisplayName": "ModelosCore",
+      "ColorIndex": 7
+    },
+    "72e2d782-3c7f-4139-9890-7c677fed7a72": {
+      "ProjectGuid": "72e2d782-3c7f-4139-9890-7c677fed7a72",
+      "DisplayName": "NegocioCore",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

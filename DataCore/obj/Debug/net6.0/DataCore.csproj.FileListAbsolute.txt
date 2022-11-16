@@ -1,0 +1,11 @@
+C:\Users\claudio.montoya\source\repos\proyectoPoo\DataCore\bin\Debug\net6.0\DataCore.deps.json
+C:\Users\claudio.montoya\source\repos\proyectoPoo\DataCore\bin\Debug\net6.0\DataCore.dll
+C:\Users\claudio.montoya\source\repos\proyectoPoo\DataCore\bin\Debug\net6.0\ref\DataCore.dll
+C:\Users\claudio.montoya\source\repos\proyectoPoo\DataCore\bin\Debug\net6.0\DataCore.pdb
+C:\Users\claudio.montoya\source\repos\proyectoPoo\DataCore\obj\Debug\net6.0\DataCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudio.montoya\source\repos\proyectoPoo\DataCore\obj\Debug\net6.0\DataCore.AssemblyInfoInputs.cache
+C:\Users\claudio.montoya\source\repos\proyectoPoo\DataCore\obj\Debug\net6.0\DataCore.AssemblyInfo.cs
+C:\Users\claudio.montoya\source\repos\proyectoPoo\DataCore\obj\Debug\net6.0\DataCore.csproj.CoreCompileInputs.cache
+C:\Users\claudio.montoya\source\repos\proyectoPoo\DataCore\obj\Debug\net6.0\DataCore.dll
+C:\Users\claudio.montoya\source\repos\proyectoPoo\DataCore\obj\Debug\net6.0\ref\DataCore.dll
+C:\Users\claudio.montoya\source\repos\proyectoPoo\DataCore\obj\Debug\net6.0\DataCore.pdb

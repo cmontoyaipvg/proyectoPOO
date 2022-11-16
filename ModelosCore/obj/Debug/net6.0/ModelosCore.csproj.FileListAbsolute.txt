@@ -1,0 +1,15 @@
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\bin\Debug\net6.0\ModelosCore.deps.json
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\bin\Debug\net6.0\ModelosCore.dll
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\bin\Debug\net6.0\ref\ModelosCore.dll
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\bin\Debug\net6.0\ModelosCore.pdb
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\bin\Debug\net6.0\DataCore.dll
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\bin\Debug\net6.0\DataCore.pdb
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\obj\Debug\net6.0\ModelosCore.csproj.AssemblyReference.cache
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\obj\Debug\net6.0\ModelosCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\obj\Debug\net6.0\ModelosCore.AssemblyInfoInputs.cache
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\obj\Debug\net6.0\ModelosCore.AssemblyInfo.cs
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\obj\Debug\net6.0\ModelosCore.csproj.CoreCompileInputs.cache
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\obj\Debug\net6.0\ModelosCore.csproj.CopyComplete
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\obj\Debug\net6.0\ModelosCore.dll
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\obj\Debug\net6.0\ref\ModelosCore.dll
+C:\Users\claudio.montoya\source\repos\proyectoPoo\ModelosCore\obj\Debug\net6.0\ModelosCore.pdb
